@@ -18,6 +18,7 @@ This is simple web project, deployment can be
  on any web server or even local file system.
 
 ##How to Contribute
+fork on the given repository then u can have the project as yours
 
 ##Copyright
 
